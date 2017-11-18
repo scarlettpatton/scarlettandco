@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Your Results!</title>
+  </head>
+  
+  <style>
+body {background: lightcyan;}  
+h2 {font-family: helvetica; color: black;}
+  </style>
+<center>  
+  <body>
+    <h1>Here is a picture of what you would buy</h1>
+    <img src=<%=@products%>>
+  </body>
+  
+  <h1>Please fill out below</h1>
+  <h2>What did you pick?</h2>
+  <form action="https://formspree.io/scarwars@kidfrog.com" method="post">
+    <div class="field half"><input type="product" name="product" placeholder="product name"></div>
+    <input type="submit" value="Submit" />
+  </form>
+</center>
+</html>
