@@ -1999,7 +1999,8 @@
 		line-height: 5em;
 		margin: 0;
 		background: #39454b;
-		color: rgba(185, 186, 187, 0.5);
+		color: white;
+		/*color: rgba(185, 186, 187, 0.5);*/
 		overflow: hidden;
 	}
 
@@ -2042,6 +2043,7 @@
 				border-left-color: rgba(185, 186, 187, 0.2);
 				font-size: 0.9em;
 			}
+			
 
 		@media screen and (max-width: 1000px) {
 
