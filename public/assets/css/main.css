@@ -540,6 +540,7 @@
 		font-size: 2.25em;
 		line-height: 1.25em;
 		letter-spacing: -0.05em;
+    color: #696969;
 	}
 
 	@media screen and (max-width: 736px) {
@@ -592,6 +593,7 @@
 
 	p, ul, ol, dl, table {
 		margin-bottom: 1em;
+    color: #A9A9A9
 	}
 
 /* Box */
