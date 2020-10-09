@@ -480,7 +480,7 @@
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
-		color: #39454b;
+		color: #A9A9A9;
 		letter-spacing: 0.025em;
 	}
 
@@ -532,7 +532,7 @@
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
+			color: #A9A9A9;
 			text-decoration: none;
 		}
 
@@ -564,7 +564,7 @@
 		-webkit-transition: color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out;
-		color: yellow;
+		color: #78BCC5;
 	}
 
 	sub {
@@ -1683,6 +1683,7 @@
 			height: 3em;
 			line-height: 3em;
 			cursor: default;
+			color: black;
 		}
 
 			#header h1 a {
