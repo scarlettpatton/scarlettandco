@@ -1889,11 +1889,11 @@
 			}
 
 		.main.dark {
-			color: #ffffff;
+			color: #A9A9A9;
 		}
 
 			.main.dark a {
-				color: inherit;
+				color: #78BCC5;
 			}
 
 			.main.dark .button.style2 {
