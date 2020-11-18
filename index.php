@@ -22,7 +22,7 @@
 						<div class="inner">
 
 							<!-- Logo -->
-								<a href="index.html" class="logo">
+								<a href="index.php" class="logo">
 									<span class="symbol"><img src="images/shopLogo.jpg" alt="" /></span><span class="title">Scarlett & Co</span>
 								</a>
 
@@ -40,7 +40,7 @@
 					<nav id="menu">
 						<h2>Menu</h2>
 						<ul>
-							<li><a href="index.html">Home</a></li>
+							<li><a href="index.php">Home</a></li>
 							<li><a href="products.html">Products</a></li>
 						</ul>
 					</nav>
