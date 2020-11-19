@@ -52,7 +52,7 @@
 								<h1>Why Hello There!</h1>
 								<p>Welcome to my website that I coded myself, Scroll down to explore my work! Visit <a href="https://www.etsy.com/shop/ScarlettpAndCo">Scarlett & Co</a> on Etsy.
 								<br><br>
-								<b>SHOP UPDATES:</b> 50% of my profit will be donated to BLM organizations
+								<b>SHOP UPDATES:</b> 30% of my profit will be donated to BLM organizations
 								</p>
 
 								<h2>What I Do</h2>
