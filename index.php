@@ -95,7 +95,7 @@
 								</ul>
 							</section>
 							<ul class="copyright">
-								<li>&copy; Scarlett & Co 2020</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+								<li>&copy; Scarlett & Co 2021</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 							</ul>
 						</div>
 					</footer>
