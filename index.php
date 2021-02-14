@@ -52,11 +52,11 @@
 								<h1>Why Hello There!</h1>
 								<p>Welcome to my website that I coded myself, Scroll down to explore my work! Visit <a href="https://www.etsy.com/shop/ScarlettpAndCo">Scarlett & Co</a> on Etsy.
 								<br><br>
-								<b>SHOP UPDATES:</b> 30% of my profit will be donated to BLM organizations
+								<b>SHOP UPDATES:</b> 20% of my profit will be donated to BLM organizations
 								</p>
 
 								<h2>What I Do</h2>
-								<p>I make and sell accessories, digital illustrations, and duck tape art! It all started in fifth grade when we had to pick a passion to work on for a few weeks. I recently rebranded my shop from Scarlett's Tape Shop to Scarlett & Co, so there are still a couple things that need to be updated here (stay tuned!) I try and make products that everyone enjoys and is inclusive, so if you have any suggestions, feel free to email me in the contact section below!</p>
+								<p>I make and sell clothing, accessories, digital illustrations, and duck tape art! It all started in fifth grade when we had to pick a passion to work on for a few weeks. I recently rebranded my shop from Scarlett's Tape Shop to Scarlett & Co, so there are still a couple things that need to be updated here (stay tuned!) I try and make products that everyone enjoys and is inclusive, so if you have any suggestions, feel free to email me in the contact section below!</p>
 
 								<h2>About Me</h2>
 								<p>My name is Scarlett and I'm a high school junior. I play cello, run cross country and track, and am kept on my toes with everything I'm involved in. I'm a huge nerd, especially for Marvel, Harry Potter, and Star Wars. I have two dogs and a kitten, Ruby, Jojo, and Piper. I love coding and I want to major in comp sci, cybersecurity, or forensics in college.</p>
