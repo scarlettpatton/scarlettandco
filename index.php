@@ -52,14 +52,16 @@
 								<h1>Why Hello There!</h1>
 								<p>Welcome to my website that I coded myself, Scroll down to explore my work! Visit <a href="https://www.etsy.com/shop/ScarlettpAndCo">Scarlett & Co</a> on Etsy.
 								<br><br>
-								<b>SHOP UPDATES:</b> 20% of my profit will be donated to St. Jude Research Hospital from now until July 31st.
+								<b>SHOP UPDATES:</b> 20% of my profit will be donated to social justice organizations and cancer research.
 								</p>
 
 								<h2>What I Do</h2>
-								<p>I make and sell clothing, accessories, digital illustrations, and duck tape art! It all started in fifth grade when we had to pick a passion to work on for a few weeks. I recently rebranded my shop from Scarlett's Tape Shop to Scarlett & Co, so there are still a couple things that need to be updated here (stay tuned!) I try and make products that everyone enjoys and is inclusive, so if you have any suggestions, feel free to use the contact section below!</p>
+								<p>I make and sell clothing, accessories, and digital illustrations! It all started in fifth grade when we had to pick a passion to work on for a few weeks. I recently rebranded my shop from Scarlett's Tape Shop to Scarlett & Co, so there are still a couple things that need to be updated here (stay tuned!) I try and make products that everyone enjoys and is inclusive, so if you have any suggestions, feel free to use the contact section below!</p>
 
+								<!--
 								<h2>About Me</h2>
-								<p>My name is Scarlett! I'm in high school, play the cello, run cross country and track, and am kept on my toes with everything I'm involved in. I'm a huge nerd, especially for Marvel, Harry Potter, and Star Wars. I also love animals and have two dogs and a kitten. I love coding and I want to major in comp sci or cybersecurity in college.</p>
+								<p>My name is Scarlett!I play ukulele and cello, run, and code.</p>
+								-->
 							</header>
 							
 						</div>
@@ -95,7 +97,7 @@
 								</ul>
 							</section>
 							<ul class="copyright">
-								<li>&copy; Scarlett & Co 2021</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+								<li>&copy; Scarlett & Co 2022</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 							</ul>
 						</div>
 					</footer>
